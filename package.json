@@ -1,0 +1,24 @@
+{
+  "name": "namecheap-scrape",
+  "version": "0.0.1",
+  "description": "Get first results for a domain name on namecheap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cogsci/namecheap-scrape.git"
+  },
+  "keywords": [
+    "namecheap",
+    "dns",
+    "domain"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cogsci/namecheap-scrape/issues"
+  },
+  "homepage": "https://github.com/cogsci/namecheap-scrape"
+}
