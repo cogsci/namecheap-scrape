@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cogsci/namecheap-scrape/issues"
   },
-  "homepage": "https://github.com/cogsci/namecheap-scrape"
+  "homepage": "https://github.com/cogsci/namecheap-scrape",
+  "dependencies": {
+    "nightmare": "^1.8.1"
+  }
 }
