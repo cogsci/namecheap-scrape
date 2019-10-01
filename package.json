@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/cogsci/namecheap-scrape",
   "dependencies": {
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.15",
     "nightmare": "^1.8.1"
   }
 }
